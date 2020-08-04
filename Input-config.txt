@@ -1,0 +1,3 @@
+C:\Users\Atanas.l.kuzmanov\Documents\Workspace Eclipse Galileo 32bit\RegExTool\Input-regex-02.txt
+C:\Users\Atanas.l.kuzmanov\Documents\Workspace Eclipse Galileo 32bit\RegExTool\RegExToolinputFiles-02\
+C:\Users\Atanas.l.kuzmanov\Documents\Workspace Eclipse Galileo 32bit\RegExTool\RegExTooloutputFiles-02\
